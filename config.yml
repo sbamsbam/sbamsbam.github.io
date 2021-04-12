@@ -79,8 +79,8 @@ params:
           url: "https://discord.com/waldemaro#6937"
         - name: github
           url: "https://github.com/sbamsbam"
-        - name: hackthebox
-          url: "https://hackthebox.eu/profile/64804"
+       # - name: hackthebox
+       #   url: "https://hackthebox.eu/profile/64804"
         - name: discogs
           url: "https://www.discogs.com/it/user/Snibit"
         - name: linkedin
