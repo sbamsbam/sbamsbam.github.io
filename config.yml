@@ -1,4 +1,4 @@
-baseURL: "https://sbamsbam.github.io"
+baseURL: "/"
 title: "Emme's Cyber Security Notes"
 theme: "PaperMod"
 paginate: 5
