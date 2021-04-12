@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disclosures on My New Hugo Site</title>
+    <link>http://example.org/disclosures/</link>
+    <description>Recent content in Disclosures on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Mar 2021 00:22:03 +0100</lastBuildDate><atom:link href="http://example.org/disclosures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NI Host Integration Agent and NI Hardware Agent Unquoted Service Path</title>
+      <link>http://example.org/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</link>
+      <pubDate>Tue, 23 Mar 2021 00:22:03 +0100</pubDate>
+      
+      <guid>http://example.org/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</guid>
+      <description>NI Host Integration Agent and NI Hardware Agent Unquoted Service Path
+Software information  Software name: NI Host Integration Agent Affected Version: &amp;lt;= 2.6.1 Software name: NI Hardware Agent Affected Version: &amp;lt;= 1.10.1 Software Web Page: https://www.native-instruments.com/en/  Native Instruments is a developer, manufacturer, and supplier of music software and hardware for music production, sound design, performance, and DJing.The company&amp;rsquo;s corporate headquarters and main development facilities are located in Berlin, Germany, with additional offices in Los Angeles, Tokyo, London, Paris, and Shenzhen.</description>
+    </item>
+    
+    <item>
+      <title>Drfone Unquoted Service Path</title>
+      <link>http://example.org/disclosures/drfone_unquoted_service_path/</link>
+      <pubDate>Wed, 17 Mar 2021 00:22:03 +0100</pubDate>
+      
+      <guid>http://example.org/disclosures/drfone_unquoted_service_path/</guid>
+      <description>Drfone Unquoted Service Path
+Software information  Software name: Drfone Affected Version: &amp;lt;= 11.0.1.317 Software Web Page: https://drfone.wondershare.com/  A complete solution for phone data recovery, transfer, screen unlock, system repair, etc. Apart from the PC-end software, Dr.Fone provides apps for iPhone, iPad, and Android devices to help transfer or recover data, and record screen activities.
+Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators.</description>
+    </item>
+    
+    <item>
+      <title>ext2fsd Unquoted Service Path</title>
+      <link>http://example.org/disclosures/ext2fsd_unquoted_service_path/</link>
+      <pubDate>Tue, 16 Mar 2021 00:22:03 +0100</pubDate>
+      
+      <guid>http://example.org/disclosures/ext2fsd_unquoted_service_path/</guid>
+      <description>ext2fsd Unquoted Service Path
+Software information  Software name: ext2fsd Affected Version: &amp;lt;=0.69 Software Web Page: https://www.ext2fsd.com/  Open source ext3/4 file system driver for Windows (2K/XP/WIN7/WIN8)
+Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path. Prerequisites: Access to the file system is needed with W permission on &amp;ldquo;C:&amp;quot;  POC:</description>
+    </item>
+    
+    <item>
+      <title>Fing Agent Unquoted Service Path</title>
+      <link>http://example.org/disclosures/fingagent_unquoted_service_path/</link>
+      <pubDate>Mon, 18 Jan 2021 00:22:03 +0100</pubDate>
+      
+      <guid>http://example.org/disclosures/fingagent_unquoted_service_path/</guid>
+      <description>Fing Agent Unquoted Service Path
+Software information  Software name: Fing Agent Affected Version: &amp;lt;=2.3.1 Software Web Page: https://www.fing.com/  Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path. Prerequisites: Access to the file system is needed with W permission on &amp;ldquo;C:&amp;quot;  POC:</description>
+    </item>
+    
+    <item>
+      <title>Softube Helper Unquoted Service Path</title>
+      <link>http://example.org/disclosures/softube_unquoted_service_path/</link>
+      <pubDate>Sun, 03 Jan 2021 00:22:03 +0100</pubDate>
+      
+      <guid>http://example.org/disclosures/softube_unquoted_service_path/</guid>
+      <description>Unquoted Service Path
+Software information  Software name: Softube Helper Affected Version: &amp;lt;= 2.5.9 Software Web Page: Softube Central Installer Helper  Softube Central is the all-in-one installer that handles installation and license activation of your Softube products.
+Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path.</description>
+    </item>
+    
+  </channel>
+</rss>
