@@ -1,4 +1,4 @@
-baseURL: "https://sbamsbam.github.io/"
+baseURL: "https://sbamsbam.github.io"
 title: "Emme's Cyber Security Notes"
 theme: "PaperMod"
 paginate: 5
@@ -8,7 +8,7 @@ buildDrafts: True
 buildFuture: False
 buildExpired: False
 
-googleAnalytics: UA-123-45
+#googleAnalytics: UA-123-45
 
 ShowToc: true
 
