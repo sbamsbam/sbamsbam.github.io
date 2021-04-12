@@ -1,6 +1,6 @@
 baseURL: "https://sbamsbam.github.io/"
 title: "Emme's Cyber Security Notes"
-theme: "papermod"
+theme: "PaperMod"
 paginate: 5
 
 enableRobotsTXT: True
@@ -9,6 +9,8 @@ buildFuture: False
 buildExpired: False
 
 googleAnalytics: UA-123-45
+
+ShowToc: true
 
 minify:
     disableXML: true
@@ -34,6 +36,9 @@ params:
     defaultTheme: auto
     disableThemeToggle: false
     disableSpecial1stPost: false
+    disableCodeCopy: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
 
     assets:
         favicon: "<link / abs url>"
@@ -57,10 +62,10 @@ params:
         imageHeight: 120 # custom size
         # imageTitle: my image
         buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+            - name: search
+              url: search
+           # - name: Tags
+           #   url: tags
 
     # home-info mode
     homeInfoParams:
