@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Emme&#39;s Cyber Security Notes</title>
+    <link>https://sbamsbam.github.io/</link>
+    <description>Recent content on Emme&#39;s Cyber Security Notes</description>
+    <image>
+      <url>https://sbamsbam.github.io/60</url>
+      <link>https://sbamsbam.github.io/60</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:22:03 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:22:03 +0100</lastBuildDate><atom:link href="https://sbamsbam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NI Host Integration Agent and NI Hardware Agent Unquoted Service Path</title>
-      <link>http://example.org/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</link>
+      <link>https://sbamsbam.github.io/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</link>
       <pubDate>Tue, 23 Mar 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</guid>
+      <guid>https://sbamsbam.github.io/disclosures/ni_host_integration_agent_hardware_agent_unquoted_service_path/</guid>
       <description>NI Host Integration Agent and NI Hardware Agent Unquoted Service Path
 Software information  Software name: NI Host Integration Agent Affected Version: &amp;lt;= 2.6.1 Software name: NI Hardware Agent Affected Version: &amp;lt;= 1.10.1 Software Web Page: https://www.native-instruments.com/en/  Native Instruments is a developer, manufacturer, and supplier of music software and hardware for music production, sound design, performance, and DJing.The company&amp;rsquo;s corporate headquarters and main development facilities are located in Berlin, Germany, with additional offices in Los Angeles, Tokyo, London, Paris, and Shenzhen.</description>
     </item>
     
     <item>
       <title>Drfone Unquoted Service Path</title>
-      <link>http://example.org/disclosures/drfone_unquoted_service_path/</link>
+      <link>https://sbamsbam.github.io/disclosures/drfone_unquoted_service_path/</link>
       <pubDate>Wed, 17 Mar 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/disclosures/drfone_unquoted_service_path/</guid>
+      <guid>https://sbamsbam.github.io/disclosures/drfone_unquoted_service_path/</guid>
       <description>Drfone Unquoted Service Path
 Software information  Software name: Drfone Affected Version: &amp;lt;= 11.0.1.317 Software Web Page: https://drfone.wondershare.com/  A complete solution for phone data recovery, transfer, screen unlock, system repair, etc. Apart from the PC-end software, Dr.Fone provides apps for iPhone, iPad, and Android devices to help transfer or recover data, and record screen activities.
 Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators.</description>
@@ -30,10 +33,10 @@ Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses 
     
     <item>
       <title>ext2fsd Unquoted Service Path</title>
-      <link>http://example.org/disclosures/ext2fsd_unquoted_service_path/</link>
+      <link>https://sbamsbam.github.io/disclosures/ext2fsd_unquoted_service_path/</link>
       <pubDate>Tue, 16 Mar 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/disclosures/ext2fsd_unquoted_service_path/</guid>
+      <guid>https://sbamsbam.github.io/disclosures/ext2fsd_unquoted_service_path/</guid>
       <description>ext2fsd Unquoted Service Path
 Software information  Software name: ext2fsd Affected Version: &amp;lt;=0.69 Software Web Page: https://www.ext2fsd.com/  Open source ext3/4 file system driver for Windows (2K/XP/WIN7/WIN8)
 Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path. Prerequisites: Access to the file system is needed with W permission on &amp;ldquo;C:&amp;quot;  POC:</description>
@@ -41,30 +44,56 @@ Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses 
     
     <item>
       <title>Fing Agent Unquoted Service Path</title>
-      <link>http://example.org/disclosures/fingagent_unquoted_service_path/</link>
+      <link>https://sbamsbam.github.io/disclosures/fingagent_unquoted_service_path/</link>
       <pubDate>Mon, 18 Jan 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/disclosures/fingagent_unquoted_service_path/</guid>
+      <guid>https://sbamsbam.github.io/disclosures/fingagent_unquoted_service_path/</guid>
       <description>Fing Agent Unquoted Service Path
 Software information  Software name: Fing Agent Affected Version: &amp;lt;=2.3.1 Software Web Page: https://www.fing.com/  Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path. Prerequisites: Access to the file system is needed with W permission on &amp;ldquo;C:&amp;quot;  POC:</description>
     </item>
     
     <item>
+      <title>Links</title>
+      <link>https://sbamsbam.github.io/links/</link>
+      <pubDate>Sun, 03 Jan 2021 23:09:21 +0100</pubDate>
+      
+      <guid>https://sbamsbam.github.io/links/</guid>
+      <description>OSCP Course Review   Offensive Security’s PWB and OSCP — My Experience
+  OSCP Journey
+  Down with OSCP
+  Jolly Frogs - Tech Exams (Very thorough)
+  OSCP Inspired VMs and Walkthroughs   vulnhub
+  https://www.root-me.org/
+  Walk through of Tr0ll-1 - Inspired by on the Trolling found in the OSCP exam
+  Another walk through for Tr0ll-1
+  Taming the troll - walkthrough</description>
+    </item>
+    
+    <item>
+      <title>Root</title>
+      <link>https://sbamsbam.github.io/root/</link>
+      <pubDate>Sun, 03 Jan 2021 07:59:03 +0100</pubDate>
+      
+      <guid>https://sbamsbam.github.io/root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blog</title>
-      <link>http://example.org/blog/blog/</link>
+      <link>https://sbamsbam.github.io/blog/blog/</link>
       <pubDate>Sun, 03 Jan 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/blog/blog/</guid>
+      <guid>https://sbamsbam.github.io/blog/blog/</guid>
       <description>##BLOG
 This section of the site will be used as a blog.</description>
     </item>
     
     <item>
       <title>Softube Helper Unquoted Service Path</title>
-      <link>http://example.org/disclosures/softube_unquoted_service_path/</link>
+      <link>https://sbamsbam.github.io/disclosures/softube_unquoted_service_path/</link>
       <pubDate>Sun, 03 Jan 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/disclosures/softube_unquoted_service_path/</guid>
+      <guid>https://sbamsbam.github.io/disclosures/softube_unquoted_service_path/</guid>
       <description>Unquoted Service Path
 Software information  Software name: Softube Helper Affected Version: &amp;lt;= 2.5.9 Software Web Page: Softube Central Installer Helper  Softube Central is the all-in-one installer that handles installation and license activation of your Softube products.
 Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses a search path that contains an unquoted element, in which the element contains whitespace or other separators. This can cause the product to access resources in a parent path.</description>
@@ -72,32 +101,33 @@ Vulnerability Details Unquoted Search Path - CWE-428  Summary: The product uses 
     
     <item>
       <title>whoami</title>
-      <link>http://example.org/whoami/</link>
+      <link>https://sbamsbam.github.io/whoami/</link>
       <pubDate>Sun, 03 Jan 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/whoami/</guid>
+      <guid>https://sbamsbam.github.io/whoami/</guid>
       <description>I have been working in the IT world for about 20 years, but I have been passionate about it long before, since my father gave me the first Commodore 16. I started repairing MFPs and printers, then as a second level help desk, system and network administrator and now here I am, as a pentester.
 I am passionate about video games, music and vinyls. I practice extreme sports when I can get up from my chair and I am not busy at the BBQ.</description>
     </item>
     
     <item>
       <title>Writeup</title>
-      <link>http://example.org/writeup/writeup/</link>
+      <link>https://sbamsbam.github.io/writeup/writeup/</link>
       <pubDate>Sun, 03 Jan 2021 00:22:03 +0100</pubDate>
       
-      <guid>http://example.org/writeup/writeup/</guid>
+      <guid>https://sbamsbam.github.io/writeup/writeup/</guid>
       <description>##Writeup
 In this section I&amp;rsquo;ll post some writeups.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://sbamsbam.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 02 Jan 2021 23:25:02 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://sbamsbam.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
+    
     
   </channel>
 </rss>
