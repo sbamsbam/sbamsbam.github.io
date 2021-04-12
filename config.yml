@@ -1,3 +1,120 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://sbamsbam.github.io/"
+title: "Emme's Cyber Security Notes"
+theme: "papermod"
+paginate: 5
+
+enableRobotsTXT: True
+buildDrafts: True
+buildFuture: False
+buildExpired: False
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+    
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "Emme's Cyber Security Notes"
+    description: "Emme's Cyber Security Notes"
+    author: Emme
+    # author: ["Emme"] # multiple authors
+
+    images: "<link or path of image for opengraph, twitter-cards>"
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    comments: true
+    defaultTheme: auto
+    disableThemeToggle: false
+    disableSpecial1stPost: false
+
+    assets:
+        favicon: "<link / abs url>"
+        favicon16x16: "<link / abs url>"
+        favicon32x32: "<link / abs url>"
+        apple_touch_icon: "<link / abs url>"
+        safari_pinned_tab: "<link / abs url>"
+
+    label:
+        text: "root"
+        #icon: /apple-touch-icon.png
+        #iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: True  # needs to be explicitly set
+        title: "Emme's Cyber Security Notes"
+        subtitle: "Tips and topics about professional experience"
+        imageUrl: 'https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/MacGyver.jpg'
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        # imageTitle: my image
+        buttons:
+            - name: Posts
+              url: posts
+            - name: Tags
+              url: tags
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Live long and prosper \U0001F596"
+        Content: Welcome to my blog
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/7rickylynx"
+        - name: discord
+          url: "https://discord.com/waldemaro#6937"
+        - name: github
+          url: "https://github.com/sbamsbam"
+        - name: hackthebox
+          url: "https://hackthebox.eu/profile/64804"
+        - name: discogs
+          url: "https://www.discogs.com/it/user/Snibit"
+        - name: linkedin
+          url: "https://linkedin.com/in/emme-a"
+        - name: medium
+          url: "https://medium.com/@snibit"
+        - name: rss
+
+   # analytics:
+       # google:
+           # SiteVerificationTag: "XYZabc"
+
+menu:
+    main:
+        - identifier: whoami
+          name: whoami
+          url: /whoami/
+          weight: 10
+        - identifier: disclosures
+          name: disclosures
+          url: /disclosures/
+          weight: 20
+        - identifier: writeup
+          name: writeup
+          url: /writeup/
+          weight: 30
+        - identifier: blog
+          name: blog
+          url: /blog/
+          weight: 40
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 50
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 60
+        - identifier: links
+          name: links
+          url: /links/
+          weight: 70
