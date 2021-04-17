@@ -20,7 +20,7 @@ draft: false
 
 **POC:**
 
-<embed-pdf url="https://sbamsbam.github.io/pdf/fing/POC_FING.agent_unquoted_service_path.pdf" >
+[FING.agent unquoted service path](https://sbamsbam.github.io/pdf/fing/POC_FING.agent_unquoted_service_path.pdf)
 
 **Security Impact:**
 

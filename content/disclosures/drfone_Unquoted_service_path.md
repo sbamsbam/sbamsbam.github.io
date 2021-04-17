@@ -23,8 +23,7 @@ Apart from the PC-end software, Dr.Fone provides apps for iPhone, iPad, and Andr
 
 **POC:**
 
-
-<embed-pdf url="https://sbamsbam.github.io/pdf/wondershare/POC_drfone_unquoted_service_path.pdf" > 
+[drfone unquoted service path](https://sbamsbam.github.io/pdf/wondershare/POC_drfone_unquoted_service_path.pdf) 
 
 **Security Impact:**
 

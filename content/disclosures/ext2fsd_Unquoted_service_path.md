@@ -21,9 +21,7 @@ Open source ext3/4 file system driver for Windows (2K/XP/WIN7/WIN8)
 
 **POC:**
 
-<embed-pdf url="https://sbamsbam.github.io/pdf/ext2fsd/POC_EXT2FSD_unquoted_service_path.pdf">
-
-
+[EXT2FSD unquoted service path](https://sbamsbam.github.io/pdf/ext2fsd/POC_EXT2FSD_unquoted_service_path.pdf)
 
 **Security Impact:**
 

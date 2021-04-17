@@ -23,7 +23,8 @@ Native Instruments is a developer, manufacturer, and supplier of music software 
 * **Prerequisites:** Access to the file system is needed with W permission on "C:\"
 
 **POC:**
-<embed-pdf url="https://sbamsbam.github.io/pdf/native_instruments/POC_NI_2x_unquoted_service_path.pdf">
+
+[NI multiple unquoted service path](https://sbamsbam.github.io/pdf/native_instruments/POC_NI_2x_unquoted_service_path.pdf)
 
 
 **Security Impact:**
