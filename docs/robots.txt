@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sbamsbam.github.io/sitemap.xml

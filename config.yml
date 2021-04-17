@@ -3,11 +3,12 @@ title: "Emme's Cyber Security Notes"
 theme: "PaperMod"
 paginate: 5
 
+
 enableRobotsTXT: True
 buildDrafts: True
 buildFuture: False
 buildExpired: False
-
+publishDir: "docs"
 #googleAnalytics: UA-123-45
 
 ShowToc: true
