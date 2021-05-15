@@ -170,3 +170,6 @@ draft: true
 
 -   [Shellcode](http://shell-storm.org/shellcode/)
 
+## Nah miss it!
+
+-   [The Tales of N4nj0](https://n4nj0.github.io/)
